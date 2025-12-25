@@ -1,0 +1,15 @@
+{
+  "users": {},
+  "user_messages": {},
+  "operator_stats": {},
+  "answer_templates": {},
+  "system_settings": {
+    "auto_greet": true,
+    "notify_operators": true,
+    "max_queue_size": 100,
+    "captcha_enabled": true,
+    "work_hours_start": 12,
+    "work_hours_end": 21,
+    "work_hours_enabled": false
+  }
+}

@@ -1,0 +1,2 @@
+2025-12-13 21:39:18,951 [ERROR] Infinity polling: polling exited
+2025-12-13 21:39:18,953 [ERROR] Break infinity polling
